@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		F7C2077C2C00D2B40035C4CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C2077B2C00D2B40035C4CC /* AppDelegate.swift */; };
-		F7C2077E2C00D2B40035C4CC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C2077D2C00D2B40035C4CC /* SceneDelegate.swift */; };
 		F7C207802C00D2B40035C4CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C2077F2C00D2B40035C4CC /* ViewController.swift */; };
 		F7C207832C00D2B40035C4CC /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F7C207822C00D2B40035C4CC /* Base */; };
 		F7C207862C00D2B40035C4CC /* FurryFriendsApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F7C207842C00D2B40035C4CC /* FurryFriendsApp.xcdatamodeld */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		F7C207782C00D2B40035C4CC /* FurryFriendsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FurryFriendsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7C2077B2C00D2B40035C4CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F7C2077D2C00D2B40035C4CC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F7C2077F2C00D2B40035C4CC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F7C207822C00D2B40035C4CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F7C207852C00D2B40035C4CC /* FurryFriendsApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FurryFriendsApp.xcdatamodel; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 			isa = PBXGroup;
 			children = (
 				F7C2077B2C00D2B40035C4CC /* AppDelegate.swift */,
-				F7C2077D2C00D2B40035C4CC /* SceneDelegate.swift */,
 				F7C2077F2C00D2B40035C4CC /* ViewController.swift */,
 				F7C207812C00D2B40035C4CC /* Main.storyboard */,
 				F7C207872C00D2B60035C4CC /* Assets.xcassets */,
@@ -144,7 +141,6 @@
 				F7C207862C00D2B40035C4CC /* FurryFriendsApp.xcdatamodeld in Sources */,
 				F7C207802C00D2B40035C4CC /* ViewController.swift in Sources */,
 				F7C2077C2C00D2B40035C4CC /* AppDelegate.swift in Sources */,
-				F7C2077E2C00D2B40035C4CC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
